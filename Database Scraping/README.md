@@ -5,11 +5,12 @@ well-organized/clean database, we can make a lot of generalizations in this code
 In the 'Address' column, we can make that data into a string variable (holds characters including
 letters and numbers) and essentially pick out the third-to-last word which should be the city name!)
 
-# How to set-up:
+## How to set-up:
 
 1. Open folder that CONTAINS .csv files and this .py files in VSCode (can use any text editor/compiler/python IDE, but further steps may not apply)
 2. CTRL + SHIFT + P -> Python: Create Environment -> <select your Python>
 3. CTRL + SHIFT + P -> Python: Create Terminal -> get to work!
+
 
 # CONSIDERATIONS (primarily for code contributors):
 
