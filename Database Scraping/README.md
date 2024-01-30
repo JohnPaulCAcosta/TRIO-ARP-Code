@@ -13,7 +13,7 @@ letters and numbers) and essentially pick out the third-to-last word which shoul
 
 ## Quick Tips:
 
-a) .csv files are compatible with softwares you may know! Feel free to use applications such as Excel, MongoDB, perhaps Google Sheets, or any database software that supports .csv files, just make sure to update your changes!
+1. .csv files are compatible with softwares you may know! Feel free to use applications such as Excel, MongoDB, perhaps Google Sheets, or any database software that supports .csv files, just make sure to update your changes!
 
 # CONSIDERATIONS (primarily for code contributors):
 
