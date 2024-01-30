@@ -12,7 +12,7 @@ letters and numbers) and essentially pick out the third-to-last word which shoul
 3. CTRL + SHIFT + P -> Python: Create Terminal -> get to work!
 
 
-# CONSIDERATIONS (primarily for code contributors):
+## CONSIDERATIONS (primarily for code contributors):
 
 1. Not all cities are one word, ie College Station, so we can attempt to splice the string with the
 commas since the commas separate columns, but we can splice with spaces for zip codes!!
