@@ -8,7 +8,7 @@ letters and numbers) and essentially pick out the third-to-last word which shoul
 ## How to set-up:
 
 1. Open folder that CONTAINS .csv files and this .py files in VSCode (can use any text editor/compiler/python IDE, but further steps may not apply)
-2. CTRL + SHIFT + P -> Python: Create Environment -> <select your Python>
+2. CTRL + SHIFT + P -> Python: Create Environment -> { select version of Python }
 3. CTRL + SHIFT + P -> Python: Create Terminal -> get to work!
 
 
