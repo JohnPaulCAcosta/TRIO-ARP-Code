@@ -5,7 +5,8 @@ well-organized/clean database, we can make a lot of generalizations in this code
 In the 'Address' column, we can make that data into a string variable (holds characters including
 letters and numbers) and essentially pick out the third-to-last word which should be the city name!)
 
-## What are these .csv, .py files?
+## What are these .md, .csv, .py files?
+* README.md - this file! 
 * InstitutionCampus.csv - the original DAPIP database used
 * InstitutionCampus.csv - slightly altered DAPIP database we can edit to for our purposes
 * scrapeCities.py - Python code to scrape database for cities
