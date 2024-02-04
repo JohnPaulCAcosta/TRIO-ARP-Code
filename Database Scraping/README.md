@@ -1,9 +1,17 @@
-# Database Scraping 🐍
+# DAPIP Database Scraping 🐍
 
 Due to the Database of Accredited Postsecondary Institutions and Programs (DAPIP) having a 
 well-organized/clean database, we can make a lot of generalizations in this code that will likely hold.
 In the 'Address' column, we can make that data into a string variable (holds characters including
 letters and numbers) and essentially pick out the third-to-last word which should be the city name!)
+
+## What are these .csv, .py files?
+* InstitutionCampus.csv - the original DAPIP database used
+* InstitutionCampus.csv - slightly altered DAPIP database we can edit to for our purposes
+* scrapeCities.py - Python code to scrape database for cities
+* scrapeZipcodes.py - Python code to scrape database for zipcodes
+* TRIOUniversityCities.csv - contains data of universities with cities in main TRIO data order
+* TRIOUniversityZipcodes.csv - data of universities and zipcodes in main TRIO data order
 
 ## How to set-up:
 
