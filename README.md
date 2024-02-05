@@ -6,6 +6,7 @@ This is where a description would go for things like the databases we use, resou
 * Database for Accredited Institutions from DAPIP: https://ope.ed.gov/dapip/#/download-data-files
 * Database from IPEDS (viewable in browser with filters!): https://nces.ed.gov/ipeds/use-the-data#SurveyData
 * Database for HBCUs: https://hbcuconnect.com/colleges/?sort=0
+* Database for Institution Info from Carnegie Classification: https://carnegieclassifications.acenet.edu/institutions/#
 
 ### Coder Area
 Using Git functionality will ensure that we'll all be on the same page!
